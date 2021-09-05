@@ -1,3 +1,6 @@
+//Created Negus Collis September-5-2021
+//Help with setting up your program
+
 #include <iostream>// So you could start using cout and cin in your code
 using namespace std; // So you won't have to keep typing std:: before everthing
 
@@ -22,4 +25,5 @@ cout << "Hello World!!" << endl;// Start of your first coding program
 
   return 0;
 }// This where the code will end
+
 
